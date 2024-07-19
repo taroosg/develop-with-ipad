@@ -78,6 +78,8 @@ _class:
 
 ## Demo
 
+demo するよ
+
 <!--
 _class:
  - lead
